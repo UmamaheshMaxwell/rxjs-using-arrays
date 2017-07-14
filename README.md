@@ -1,4 +1,4 @@
-# RxJS Boiler
+# RxJS Using Arrays
 
 RxJS applications using arrays in a Webpack environment
 
