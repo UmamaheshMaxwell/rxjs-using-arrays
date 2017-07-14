@@ -1,6 +1,6 @@
 # RxJS Using Arrays
 
-RxJS applications using arrays in a Webpack environment
+RxJS applications using arrays with webpack environment
 
 ### Installation
 
